@@ -1,6 +1,6 @@
 {
-  "homepage": "http://DeepaliMusale.github.io/spa",
-  "name": "spa",
+  "homepage": "http://DeepaliMusale.github.io/SinglePageApp",
+  "name": "SinglePageApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
